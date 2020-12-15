@@ -11,6 +11,7 @@ Might contain errors. Made public for sake of discussions
 7. [Entanglement](https://raghav.wtf/2020-12-04-entanglement/)
 8. [No Cloning theorem](https://github.com/rakaar/qc-qi-qm-notes/blob/main/no%20cloning.pdf)
 9. [Teleportation](https://github.com/rakaar/qc-qi-qm-notes/blob/main/teleportation.pdf)
+10. [Don't get confused between Observables and Gates - Answer by u/roundedge](https://www.reddit.com/r/QuantumComputing/comments/kcvjza/query_on_observables_and_gates/)
 
 ## Resources
 1. [Book by Nielsen and Chuang](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)
